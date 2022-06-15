@@ -4,7 +4,7 @@ public class Principal {
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
         System.out.println("Introduce numerito: ");
-        int numerito= sc.nextInt();
+        double numerito= sc.nextInt();
 
     }
 }
