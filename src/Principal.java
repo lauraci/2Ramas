@@ -6,7 +6,7 @@ public class Principal {
         //Commit 1
         //Commit 2
         //Commit 3
-        System.out.println("Introduce numerito: ");
+        System.out.println("Introduce numerito 2: ");
         double numerito= sc.nextInt();
 
     }
